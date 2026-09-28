@@ -1,2 +1,3 @@
-# hello-word-prueba-
-"Este repositorio es para practicar el flujo de GitHub
+# Prueba
+Prueba para 1AW3
+Esta es una prueba para 1AW3
